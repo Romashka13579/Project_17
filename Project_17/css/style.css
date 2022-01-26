@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0vh;
+}
+.uk-container{
+    margin: 0vh;
+    padding: 0vh;
+}
+p{
+    font-size: 20px;
+}
+.uk-icon-link{
+    color: black;
+}
+.uk-border-circle{
+    position:relative;
+    border: 3px solid white;
+    right: 0vh;
+}
+.uk-border-circle-1{
+    border-radius:50%;
+    border: 3px solid white;
+    position: relative;
+    right: 12px;
+}
+.uk-icon-link{
+    color: black;
+}
+.girl-2{
+    position: relative;
+    left:-14px;
+}
+.girl-3{
+    position: relative;
+    left:-28px;
+}
+.girl-4{
+    position: relative;
+    left:-42px;
+}
+.uk-card-footer{
+    background-color: rgb(240, 240, 240);
+}
+.right-part{
+    position: relative;
+    right: -150px;
+}
+.numb{
+    position: absolute;
+    right: 10px;
+    top: -10px;
+    font-size: 14px;
+}
